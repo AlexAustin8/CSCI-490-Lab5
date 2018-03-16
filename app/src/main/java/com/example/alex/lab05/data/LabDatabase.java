@@ -1,9 +1,9 @@
-package data;
+package com.example.alex.lab05.data;
 
 import android.arch.persistence.room.Database;
 import android.arch.persistence.room.RoomDatabase;
 
-import entities.Person;
+import com.example.alex.lab05.entities.*;
 
 /**
  * Created by alex on 3/15/18.
